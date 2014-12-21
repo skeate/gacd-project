@@ -15,6 +15,8 @@ A string representing the activity being done. Possible values:
 
 A number representing the activity being done. Same numbering as above.
 
+### Remaining columns
+
 The rest of the columns are means of the following columns from the data set: 
 
 * tBodyAcc-mean()-XYZ
